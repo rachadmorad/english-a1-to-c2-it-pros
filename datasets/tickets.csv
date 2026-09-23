@@ -1,0 +1,9 @@
+ticket_id,opened,caller,department,short_description,priority,status
+INC0010234,2026-03-02 08:12,Omar H.,Finance,Cannot log in to laptop,High,Open
+INC0010235,2026-03-02 08:45,Nadia S.,HR,Printer is not working,Medium,Closed
+INC0010236,2026-03-02 09:10,Laila K.,Sales,Wi-Fi is slow,Low,Open
+INC0010237,2026-03-02 09:30,Karim B.,IT,Update failed on server,High,Closed
+INC0010238,2026-03-02 10:05,Adam R.,Marketing,Virus alert on laptop,High,Open
+INC0010239,2026-03-02 10:40,Sana M.,Finance,Forgot password,Medium,Closed
+INC0010240,2026-03-02 11:15,Yassine T.,Support,VPN connection failed,High,In progress
+INC0010241,2026-03-02 13:00,Hana D.,Legal,Need a new mouse,Low,Open

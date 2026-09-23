@@ -1,0 +1,163 @@
+#separator:tab
+#html:true
+#tags column:3
+👋 hello	مرحبًا<br><i>Hello, I'm Sara.</i>	A1 unit01
+🚪 goodbye	مع السلامة<br><i>Goodbye! See you tomorrow.</i>	A1 unit01
+🌅 good morning	صباح الخير<br><i>Good morning, Omar.</i>	A1 unit01
+☀️ good afternoon	طاب يومك (بعد الظهر)<br><i>Good afternoon, everyone.</i>	A1 unit01
+🌆 good evening	مساء الخير<br><i>Good evening, Ali.</i>	A1 unit01
+🙏 please	من فضلك<br><i>Please sit down.</i>	A1 unit01
+😊 thank you	شكرًا<br><i>Thank you for your help.</i>	A1 unit01
+🤝 you're welcome	عفوًا<br><i>You're welcome!</i>	A1 unit01
+😔 sorry	آسف<br><i>Sorry, I'm late.</i>	A1 unit01
+🤝 nice to meet you	سعدت بلقائك<br><i>Nice to meet you, Ali.</i>	A1 unit01
+🔧 technician	فني<br><i>I'm an IT technician.</i>	A1 unit01
+👷 engineer	مهندس<br><i>She's a network engineer.</i>	A1 unit01
+👔 manager	مدير<br><i>He's the IT manager.</i>	A1 unit01
+🧑‍💻 user	مستخدم<br><i>The user is at the help desk.</i>	A1 unit01
+🎧 help desk	مكتب الدعم الفني<br><i>I work at the help desk.</i>	A1 unit01
+🌍 from	من (بلد)<br><i>I'm from Egypt.</i>	A1 unit01
+💻 laptop	حاسوب محمول<br><i>This is a new laptop.</i>	A1 unit02
+🖱️ mouse	فأرة (ماوس)<br><i>The mouse is broken.</i>	A1 unit02
+⌨️ keyboard	لوحة مفاتيح<br><i>That keyboard is old.</i>	A1 unit02
+🖥️ monitor	شاشة<br><i>I have two monitors.</i>	A1 unit02
+🖨️ printer	طابعة<br><i>The printer is in the office.</i>	A1 unit02
+🔌 cable	كابل<br><i>These cables are long.</i>	A1 unit02
+📡 router	راوتر (جهاز توجيه)<br><i>The router is on the shelf.</i>	A1 unit02
+🗄️ server	خادم (سيرفر)<br><i>The server is in the server room.</i>	A1 unit02
+📱 phone	هاتف<br><i>This is my phone.</i>	A1 unit02
+🎧 headset	سماعة رأس<br><i>I need a headset.</i>	A1 unit02
+🔑 password	كلمة مرور<br><i>My password is strong.</i>	A1 unit02
+📄 file	ملف<br><i>This file is important.</i>	A1 unit02
+🪑 desk	مكتب (طاولة)<br><i>My desk is clean.</i>	A1 unit02
+💾 USB drive	ذاكرة فلاش<br><i>That USB drive is mine.</i>	A1 unit02
+🔧 broken	معطّل / مكسور<br><i>The printer is broken.</i>	A1 unit02
+🆕 new / old	جديد / قديم<br><i>The old laptop is slow.</i>	A1 unit02
+🔢 number	رقم<br><i>What's your phone number?</i>	A1 unit03
+☎️ phone number	رقم هاتف<br><i>My phone number is 555-0142.</i>	A1 unit03
+🌐 IP address	عنوان IP<br><i>The IP address is 10.0.0.5.</i>	A1 unit03
+🎫 ticket	تذكرة (بلاغ)<br><i>Ticket number INC0010234.</i>	A1 unit03
+🕐 hour	ساعة<br><i>The meeting is one hour.</i>	A1 unit03
+⏱️ minute	دقيقة<br><i>Wait five minutes.</i>	A1 unit03
+📅 today	اليوم<br><i>Today is Monday.</i>	A1 unit03
+➡️ tomorrow	غدًا<br><i>The update is tomorrow.</i>	A1 unit03
+⬅️ yesterday	أمس<br><i>Yesterday was Sunday.</i>	A1 unit03
+1️⃣ Monday	الاثنين<br><i>The meeting is on Monday.</i>	A1 unit03
+5️⃣ Friday	الجمعة<br><i>I finish early on Friday.</i>	A1 unit03
+🗓️ week	أسبوع<br><i>There are seven days in a week.</i>	A1 unit03
+📆 month	شهر<br><i>There are twelve months in a year.</i>	A1 unit03
+👥 meeting	اجتماع<br><i>The meeting is at 9:30.</i>	A1 unit03
+🕘 o'clock	تمامًا (الساعة)<br><i>It's nine o'clock.</i>	A1 unit03
+🕤 half past	والنصف<br><i>It's half past nine.</i>	A1 unit03
+🧑‍🤝‍🧑 colleague	زميل عمل<br><i>Omar is my colleague.</i>	A1 unit04
+🧑‍💼 boss	رئيس (مدير مباشر)<br><i>My boss is in a meeting.</i>	A1 unit04
+👥 team	فريق<br><i>We have a small IT team.</i>	A1 unit04
+🏢 company	شركة<br><i>The company has 200 laptops.</i>	A1 unit04
+🏬 office	مكتب (مكان)<br><i>Our office is on the second floor.</i>	A1 unit04
+👩 mother	أم<br><i>My mother is a teacher.</i>	A1 unit04
+👨 father	أب<br><i>My father is 55.</i>	A1 unit04
+👦 brother	أخ<br><i>I have one brother.</i>	A1 unit04
+👧 sister	أخت<br><i>She has two sisters.</i>	A1 unit04
+💍 husband / wife	زوج / زوجة<br><i>Her husband is an engineer.</i>	A1 unit04
+🧒 son / daughter	ابن / ابنة<br><i>He has a son and a daughter.</i>	A1 unit04
+👤 account	حساب<br><i>I have an admin account.</i>	A1 unit04
+🪪 badge	بطاقة دخول<br><i>Do you have a badge?</i>	A1 unit04
+📜 license	ترخيص<br><i>We have a software license.</i>	A1 unit04
+📧 email address	عنوان البريد الإلكتروني<br><i>What's your email address?</i>	A1 unit04
+🎂 old (age)	عمره ... سنة<br><i>How old are you? I'm 30.</i>	A1 unit04
+💼 work	يعمل<br><i>I work at a bank.</i>	A1 unit05
+🏁 start / finish	يبدأ / ينهي<br><i>We start at 8:30.</i>	A1 unit05
+✔️ check	يفحص<br><i>I check my email.</i>	A1 unit05
+📂 open / close	يفتح / يغلق<br><i>I open the ticket.</i>	A1 unit05
+⬇️ install	يثبّت (برنامج)<br><i>We install updates.</i>	A1 unit05
+🔄 update	يحدّث<br><i>They update the antivirus.</i>	A1 unit05
+♻️ restart	يعيد التشغيل<br><i>I restart the server.</i>	A1 unit05
+🔁 reset	يعيد ضبط<br><i>We reset passwords.</i>	A1 unit05
+🔐 log in	يسجل الدخول<br><i>I log in at 8:00.</i>	A1 unit05
+☎️ answer	يجيب / يردّ<br><i>I answer calls.</i>	A1 unit05
+✍️ write	يكتب<br><i>We write reports.</i>	A1 unit05
+📖 read	يقرأ<br><i>I read logs.</i>	A1 unit05
+🧰 use	يستخدم<br><i>We use a ticket system.</i>	A1 unit05
+🔁 always / usually	دائمًا / عادةً<br><i>I always lock my laptop.</i>	A1 unit05
+🙂 sometimes / never	أحيانًا / أبدًا<br><i>I never share my password.</i>	A1 unit05
+📅 every day	كل يوم<br><i>We back up data every day.</i>	A1 unit05
+🔧 fix	يصلح<br><i>She fixes printers.</i>	A1 unit06
+👀 monitor (verb)	يراقب<br><i>He monitors the network.</i>	A1 unit06
+💿 install software	يثبّت برامج<br><i>He installs software.</i>	A1 unit06
+💾 back up data	ينسخ البيانات احتياطيًا<br><i>She backs up data at night.</i>	A1 unit06
+🔍 scan	يفحص (فيروسات)<br><i>The antivirus scans files.</i>	A1 unit06
+🛡️ protect	يحمي<br><i>A firewall protects the network.</i>	A1 unit06
+⛔ block	يحظر<br><i>The firewall blocks bad traffic.</i>	A1 unit06
+🔄 replace	يستبدل<br><i>He replaces old cables.</i>	A1 unit06
+📞 call	يتصل<br><i>She calls the user.</i>	A1 unit06
+🤝 support	يدعم (فنيًا)<br><i>We support 200 users.</i>	A1 unit06
+📋 manage	يدير<br><i>He manages the team.</i>	A1 unit06
+🦠 virus	فيروس<br><i>The virus infects files.</i>	A1 unit06
+🛡️ antivirus	مضاد فيروسات<br><i>This antivirus works well.</i>	A1 unit06
+🧱 firewall	جدار ناري<br><i>The firewall stops attacks.</i>	A1 unit06
+🕸️ network	شبكة<br><i>The network is slow.</i>	A1 unit06
+🗃️ backup	نسخة احتياطية<br><i>The backup runs every night.</i>	A1 unit06
+🚪 room	غرفة<br><i>The server room is cold.</i>	A1 unit07
+🏢 server room	غرفة الخوادم<br><i>There are three racks in the server room.</i>	A1 unit07
+🗄️ rack	حامل خوادم (رف)<br><i>There are three racks.</i>	A1 unit07
+📚 shelf	رفّ<br><i>The router is on the shelf.</i>	A1 unit07
+🗃️ cabinet	خزانة<br><i>The cables are in the cabinet.</i>	A1 unit07
+📦 box	صندوق<br><i>There is a box under the desk.</i>	A1 unit07
+🚪 door / window	باب / نافذة<br><i>There is no window.</i>	A1 unit07
+🧱 wall / floor	جدار / أرضية<br><i>There is a cable on the floor.</i>	A1 unit07
+📥 in	في (داخل)<br><i>The USB drive is in the box.</i>	A1 unit07
+⬆️ on	على<br><i>The laptop is on the desk.</i>	A1 unit07
+⬇️ under	تحت<br><i>The box is under the desk.</i>	A1 unit07
+↔️ next to	بجانب<br><i>The extinguisher is next to the door.</i>	A1 unit07
+↔️ between	بين<br><i>The router is between two racks.</i>	A1 unit07
+🔙 in front of / behind	أمام / خلف<br><i>The desk is in front of the rack.</i>	A1 unit07
+📍 near	قريب من<br><i>The printer is near the door.</i>	A1 unit07
+🧯 fire extinguisher	طفاية حريق<br><i>There is a fire extinguisher.</i>	A1 unit07
+🔑 reset a password	يعيد ضبط كلمة المرور<br><i>I can reset your password.</i>	A1 unit08
+🖨️ print	يطبع<br><i>I can't print this file.</i>	A1 unit08
+🔗 connect	يتصل / يوصل<br><i>I can't connect to Wi-Fi.</i>	A1 unit08
+🔓 access	يصل إلى / يدخل<br><i>Can I access the server?</i>	A1 unit08
+🔗 share	يشارك<br><i>You can share this file.</i>	A1 unit08
+🗑️ delete	يحذف<br><i>Don't delete the backup.</i>	A1 unit08
+⬇️⬆️ download / upload	ينزّل / يرفع<br><i>I can download the update.</i>	A1 unit08
+💾 save	يحفظ<br><i>Please save the file.</i>	A1 unit08
+🆘 help	يساعد<br><i>Can you help me, please?</i>	A1 unit08
+🗣️ speak English	يتكلم الإنجليزية<br><i>I can speak a little English.</i>	A1 unit08
+💡 understand	يفهم<br><i>I don't understand.</i>	A1 unit08
+⏳ wait	ينتظر<br><i>Can you wait a minute?</i>	A1 unit08
+🔁 repeat	يعيد (الكلام)<br><i>Can you repeat that, please?</i>	A1 unit08
+🐢 slowly	ببطء<br><i>Please speak slowly.</i>	A1 unit08
+📶 Wi-Fi	واي فاي<br><i>The Wi-Fi password is on the wall.</i>	A1 unit08
+✉️ email	بريد إلكتروني / يرسل بريدًا<br><i>I can email you the file.</i>	A1 unit08
+🖱️ click	ينقر<br><i>Click the Start button.</i>	A1 unit09
+👇 press	يضغط<br><i>Press Enter.</i>	A1 unit09
+⌨️ type	يكتب (بلوحة المفاتيح)<br><i>Type your username.</i>	A1 unit09
+☑️ select	يختار<br><i>Select the file.</i>	A1 unit09
+⏳ wait	ينتظر<br><i>Wait five minutes.</i>	A1 unit09
+🔌 turn on / turn off	يشغّل / يطفئ<br><i>Turn off the computer.</i>	A1 unit09
+🔌 plug in / unplug	يوصّل / يفصل<br><i>Plug in the cable.</i>	A1 unit09
+🚪 log out	يسجل الخروج<br><i>Please log out.</i>	A1 unit09
+⚠️ error message	رسالة خطأ<br><i>There is an error message.</i>	A1 unit09
+🖥️ screen	شاشة<br><i>The screen is black.</i>	A1 unit09
+🐌 slow / fast	بطيء / سريع<br><i>The network is slow.</i>	A1 unit09
+🔄 update (noun)	تحديث<br><i>An update is downloading.</i>	A1 unit09
+⬇️ download	تنزيل<br><i>The file is downloading.</i>	A1 unit09
+🔍 scan (noun)	فحص<br><i>A scan is running.</i>	A1 unit09
+🏃 run	يعمل / يشغّل<br><i>The antivirus is running.</i>	A1 unit09
+⏰ now / at the moment	الآن / في هذه اللحظة<br><i>I'm working now.</i>	A1 unit09
+❗ problem	مشكلة<br><i>What is the problem?</i>	A1 unit10
+⚠️ error	خطأ<br><i>I see an error.</i>	A1 unit10
+🐞 issue	مشكلة / بلاغ<br><i>There is an issue with the VPN.</i>	A1 unit10
+🚨 urgent	عاجل<br><i>This ticket is urgent.</i>	A1 unit10
+🔺 priority	أولوية<br><i>The priority is high.</i>	A1 unit10
+📊 status	حالة<br><i>What is the status?</i>	A1 unit10
+📂 open / closed	مفتوح / مغلق<br><i>The ticket is open.</i>	A1 unit10
+✅ solved	تم الحل<br><i>The problem is solved.</i>	A1 unit10
+🏢 department	قسم<br><i>I work in the finance department.</i>	A1 unit10
+👤 username	اسم المستخدم<br><i>What's your username?</i>	A1 unit10
+🔒 VPN	شبكة افتراضية خاصة<br><i>I can't connect to the VPN.</i>	A1 unit10
+📶 Wi-Fi / internet	واي فاي / إنترنت<br><i>The internet is down.</i>	A1 unit10
+🦠 virus alert	تنبيه فيروس<br><i>I see a virus alert.</i>	A1 unit10
+📞 call back	يعاود الاتصال<br><i>We can call you back.</i>	A1 unit10
+🔢 how many	كم (عدد)<br><i>How many users are there?</i>	A1 unit10
+❓ why	لماذا<br><i>Why is the network slow?</i>	A1 unit10

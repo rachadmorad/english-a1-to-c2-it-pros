@@ -1,0 +1,8 @@
+Sara: Omar, what does Ali do?
+Omar: He manages the team. He doesn't fix computers.
+Sara: Does he answer calls?
+Omar: No, he doesn't. Nadia answers calls. She works at the help desk.
+Sara: And who monitors the network?
+Omar: I do. I monitor it every day.
+Sara: Does the firewall block spam?
+Omar: Yes, it does. It blocks a lot of spam.

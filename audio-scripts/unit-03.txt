@@ -1,0 +1,8 @@
+User: Hello, I have a problem with my laptop.
+Sara: Sure. What's your phone number?
+User: It's five five five, oh one four two.
+Sara: Thank you. Your ticket number is I-N-C zero zero one zero two three four.
+User: Can you repeat that, please?
+Sara: I-N-C, zero zero one, zero two three four.
+User: What time is the technician here?
+Sara: At half past three, in the afternoon.

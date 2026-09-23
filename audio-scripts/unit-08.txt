@@ -1,0 +1,8 @@
+User: Hello. I can't log in to my account.
+Sara: I'm sorry to hear that. Can you tell me your username?
+User: Yes, it's o-m-a-r dot h.
+Sara: Thank you. I can reset your password now.
+User: Can I choose a new password?
+Sara: Yes, you can. But you can't use the old password.
+User: Sorry, can you repeat that, please?
+Sara: Of course. You can't use the old password.

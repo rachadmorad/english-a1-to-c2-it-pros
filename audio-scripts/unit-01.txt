@@ -1,0 +1,8 @@
+Sara: Good morning! I'm Sara. I'm the new IT technician.
+Omar: Hello, Sara. I'm Omar. Nice to meet you.
+Sara: Nice to meet you, too. Are you the IT manager?
+Omar: No, I'm not. I'm a network engineer. Ali is the manager.
+Sara: Is Ali here?
+Omar: Yes, he is. He's at the help desk.
+Sara: Thank you, Omar!
+Omar: You're welcome.

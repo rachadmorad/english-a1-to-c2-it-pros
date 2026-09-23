@@ -1,0 +1,12 @@
+Sara: Help desk, Sara speaking. How can I help you?
+User: Hello. I can't connect to the VPN.
+Sara: I'm sorry about that. What's your name and username?
+User: Omar Haddad. My username is o-h-a-d-d-a-d.
+Sara: Thank you, Omar. When does the problem start?
+User: It starts this morning at 8:00.
+Sara: What do you see on the screen?
+User: I see an error message: Connection failed.
+Sara: OK. Please restart your laptop. Don't close the ticket.
+User: Can you give me the ticket number?
+Sara: Yes. It's I-N-C zero zero one zero two three four. Is there anything else?
+User: No, thank you. Goodbye.

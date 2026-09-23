@@ -1,0 +1,8 @@
+User: My laptop is very slow.
+Sara: OK. What are you doing now?
+User: I'm opening my email. And a video is playing.
+Sara: Is an update downloading?
+User: Yes, it is.
+Sara: Please wait five minutes. Don't turn off the laptop.
+User: OK. Is it working now?
+Sara: Yes, it's running fast now. Thank you for waiting.

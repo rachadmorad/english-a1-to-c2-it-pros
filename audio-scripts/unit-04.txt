@@ -1,0 +1,9 @@
+Ali: Welcome to the team, Sara. Do you have your badge?
+Sara: No, I don't. I don't have a badge yet.
+Ali: Here is your badge. And this is your laptop.
+Sara: Thank you. Do I have an email address?
+Ali: Yes, you do. It's sara at corp dot example.
+Sara: Is Omar your colleague?
+Ali: Yes, he is. His office is next to my office.
+Sara: How old is this laptop?
+Ali: It's two years old.

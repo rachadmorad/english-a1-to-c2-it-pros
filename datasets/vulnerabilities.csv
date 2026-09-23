@@ -1,0 +1,6 @@
+asset_tag,issue,severity,status
+SRV-0007,Outdated operating system,High,Open
+LAP-0013,Missing security update,Medium,Open
+RTR-0003,Default password,Critical,Fixed
+PRN-0045,Old firmware,Low,Open
+LAP-0012,Antivirus is off,High,Fixed

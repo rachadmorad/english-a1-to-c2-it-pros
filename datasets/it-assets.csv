@@ -1,0 +1,9 @@
+asset_tag,type,assigned_to,location,status,purchase_date
+LAP-0012,Laptop,Sara,Office 2,In use,2024-05-10
+LAP-0013,Laptop,Omar,Office 2,In use,2023-09-01
+MON-0031,Monitor,Ali,Office 1,In use,2022-11-20
+PRN-0045,Printer,Shared,Hallway,Broken,2020-02-15
+SRV-0007,Server,IT,Server room,In use,2021-06-30
+RTR-0003,Router,IT,Server room,In use,2022-01-12
+KBD-0088,Keyboard,Nadia,Help desk,In use,2023-03-03
+USB-0101,USB drive,Spare,Cabinet,In stock,2025-08-08
